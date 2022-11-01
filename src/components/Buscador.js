@@ -26,7 +26,7 @@ export default function Buscador() {
 
   return (
     <form onSubmit={submitHandler}>
-      <Stack direction='row' spacing={'6px'} type={'text'} >
+      <Stack direction='row' spacing={'6px'} type={'text'} fontFamily='Karla' >
         <Input placeholder='Buscar...' size='md' name='keyword' border='solid 2px'  colorScheme='whiteAlpha' _placeholder={{ opacity: 1 , color: 'inherit' }} >
         </Input>
         <Button colorScheme='gray' type="submit" >Buscar</Button>

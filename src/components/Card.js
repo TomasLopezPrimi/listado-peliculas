@@ -31,7 +31,8 @@ export default function Card({movie, idx, addOrRemoveFromFavs, isFavorite}) {
       textAlign={'center'}
       margin={10}
       key={idx}
-      position='relative'>
+      position='relative'
+      >
       <IconButton 
         h='5vh'
         onClick={addOrRemoveFromFavs}         

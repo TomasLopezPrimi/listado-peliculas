@@ -1,7 +1,0 @@
-.headerrrr {
-  display: flex;
-  flex-direction: row;
-  padding: 15px;
-  background-color: linear(to-t, blue.500, gray.500);
-  border-radius: 2px;
-}

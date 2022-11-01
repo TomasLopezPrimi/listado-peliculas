@@ -6,7 +6,7 @@ export default function Favoritos(props) {
 
   return (
     <>
-    <Heading textAlign='center' margin='5px' size='lg' >Sección favoritos</Heading>
+    <Heading textAlign='center' margin='15px' size='lg' fontStyle='italic'>Favoritos</Heading>
     <Box
         display={'flex'}
         flexWrap={'wrap'}>
