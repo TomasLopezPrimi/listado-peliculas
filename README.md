@@ -1,4 +1,4 @@
-Listado de peliculas
+# Listado de peliculas
 Proyecto motivado por el curso de 'Skill Up React' de Alkemy
 
 Empieza con un formulario de logueo , en el cual hay un solo usuario y contraseña válidos 
