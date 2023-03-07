@@ -25,4 +25,4 @@ Tiene un buscador y también está la opción de ubicar peliculas en favoritos
 
 ## Test App
 
-[Deploy](https://listado-peliculas.vercel.app/)
+Solamente para uso local siguiendo las instrucciones de "Instalación"
